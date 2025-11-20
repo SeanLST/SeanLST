@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sean Liew 
 
-<!--
-**SeanLST/SeanLST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer
+***
+🛠️ Skills & Technologies
+#
+Programming Languages:CSS, Java, C++, PHP, HTML, Python
 
-Here are some ideas to get you started:
+Tools: VS Code, Cursor AI IDE, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases: MySQL, Firebase
+***
+📍 About Me
+#
+
+📍 Based in Kota Kinabalu, Sabah, Malaysia
+
+📧 Reach me at sean1208liewst@gmail.com
+***
+✨Constantly exploring new technologies to creating impactful software solution
